@@ -32,7 +32,7 @@ const Chart = (props: Props) => {
       height={350}
       barRadius={15}
       baseConfig={config}
-      barColor={colors.blue}
+      barColor="green"
       style={styles.chart}
     />
 {/* <BarChart
